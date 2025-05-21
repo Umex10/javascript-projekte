@@ -1,0 +1,22 @@
+# Node Modules - hier liegen alle installierten Pakete, die du nicht ins Repo packen musst
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Umgebungsvariablen (z.B. API-Keys, sensible Daten)
+.env
+
+# Build-Ordner, wenn du einen hast
+dist/
+build/
+
+# Mac OS Dateien (optional)
+.DS_Store
+
+# VSCode Workspace Settings (optional)
+.vscode/
