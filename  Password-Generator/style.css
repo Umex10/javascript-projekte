@@ -1,0 +1,16 @@
+body {
+  background-color: grey;
+  text-align: center;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+button {
+  font-size: 2rem;
+  border-radius: 10px;
+  background-color: blanchedalmond;
+  padding: 10px 15px;
+  margin-bottom: 1rem;
+}
