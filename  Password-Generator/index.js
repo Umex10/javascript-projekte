@@ -57,5 +57,3 @@ generateBtn.addEventListener("click", () => {
 
   result.textContent = `Generated password: ${password}`;
 });
-
-

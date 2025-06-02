@@ -10,7 +10,7 @@
 let numbers = [1, 2, 3, 4, 5];
 
 numbers.forEach(display); //    forEach calls automatically display function with
-//    with the current element in the array!
+//                              the current element in the array!
 
 function display(element) {
   console.log(element);
